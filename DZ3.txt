@@ -1,0 +1,17 @@
+   0 nano sleeper.sh
+   1 cp sleeper.sh /bin/dima
+   2 cd /bin
+   3 ls
+   4 ls -
+   5 ls -l
+   6 chmod 745 dima
+   7 ls -l
+   8 nano dima
+   9 dima
+  10 nano dima
+  11 nano dima
+  12 nano dima
+  13 nano dima 
+  14 nano dima
+  15 history
+  16 history > /tmp/history.txt
