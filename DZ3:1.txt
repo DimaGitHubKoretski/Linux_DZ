@@ -1,0 +1,45 @@
+   0 nano sleeper.sh
+   1 ps -ef
+   2 nano sleeper.sh
+   3 cp sleeper.sh  /etc/homework
+   4 cd /etc
+   5 ls
+   6 chmod 744 homework
+   7 ls
+   8 nano homework
+  9 cat /proc/cpuinfo
+  10 nano homework
+  11 cat /proc/cpuinfo 
+  12 cat /proc/cpuinfo  | grep -o AuthenticX86
+  13 nano homework
+  14 ls
+  15 nano homework
+  16 cp homework /tmp/dima.sh
+  17 ./dima.sh
+  18 cd /
+  19 ls
+  20 cd /tmp
+  21 ls
+  22 ./dima.sh
+  23 nano dima.sh
+  24 ./dima.sh
+  25 nano dima.sh
+  26 ./dima.sh
+  27 nano dima.sh
+  28 ps -ef
+  29 ps -ef | tail -32
+  30 ps -ef
+  31 ps -ef | tail -32 | wc -l
+  32 nano dima.sh
+  33 ./dima.sh
+  34 nano dima.sh
+  35 tree /tmp/dima.txt
+  36 nano dima.sh
+  37 tree /tmp
+  38 nano dima.sh
+  39 cat /tmp/dima1.txt
+  40 tree /tmp
+  41 cat /tmp/dima.txt
+  42 histori
+  43 history
+  44 history > /tmp/history.txt
